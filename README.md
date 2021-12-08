@@ -11,8 +11,8 @@ I am Lahiru Prasanna. I am a self-taught developer and like to study anything re
     <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashenud&theme=nord&layout=compact&langs_count=6" />
 </a>
 
-[![Linkedin: lahiru-prasanna-20b56270](https://img.shields.io/badge/-lahiru-prasanna-20b56270-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lahiru-prasanna-20b56270/)](https://www.linkedin.com/in/lahiru-prasanna-20b56270/)
-[![GitHub: lahiru04](https://img.shields.io/github/followers/ashenud?label=follow&style=social)](https://github.com/lahiru04)
-[![GitHub: lahiru04](https://img.shields.io/github/stars/ashenud?label=stars&style=social)](https://github.com/lahiru04)
+
+[![GitHub: lahiru04](https://img.shields.io/github/followers/lahiru04?label=follow&style=social)](https://github.com/lahiru04)
+[![GitHub: lahiru04](https://img.shields.io/github/stars/lahiru04?label=stars&style=social)](https://github.com/lahiru04)
 
 
