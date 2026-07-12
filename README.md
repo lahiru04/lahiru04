@@ -23,10 +23,10 @@ With a passion for learning and innovation, I am always exploring new tools, tec
 
 
 <a href="https://github.com/lahiru04">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api?username=lahiru04&show_icons=true&theme=nord&line_height=27" alt="Lahiru's github stats"/>
+    <img height="150px" align="center" src="https://skillicons.dev/icons?i=github" alt="Lahiru's github stats"/>
 </a>
 <a href="https://github.com/lahiru04">
-    <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lahiru04&theme=nord&layout=compact&langs_count=6" />
+    <img height="150px" align="center" src="https://skillicons.dev/icons?i=github" />
 </a>
 
 
