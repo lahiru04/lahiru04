@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,androidstudio,swift,nodejs,react,nextjs,php" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,androidstudio,swift,nodejs,react,nextjs,php,github,git" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -20,14 +20,6 @@ With a passion for learning and innovation, I am always exploring new tools, tec
 
 ![GitHub Snake](https://raw.githubusercontent.com/lahiru04/lahiru04/main/github-snake-dark.svg)
 
-
-
-<a href="https://github.com/lahiru04">
-    <img height="150px" align="center" src="https://skillicons.dev/icons?i=github" alt="Lahiru's github stats"/>
-</a>
-<a href="https://github.com/lahiru04">
-    <img height="150px" align="center" src="https://skillicons.dev/icons?i=github" />
-</a>
 
 
 [![GitHub: lahiru04](https://img.shields.io/github/followers/lahiru04?label=follow&style=social)](https://github.com/lahiru04)
