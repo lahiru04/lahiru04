@@ -2,15 +2,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,androidstudio,swift,nodejs,react,php,nextjs" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,androidstudio,swift,nodejs,react,nextjs,php" alt="Skills and tools"/>
   </a>
 </p>
 
 
 
+I am Lahiru Prasanna, a self-taught software developer and technology enthusiast passionate about building innovative and user-focused solutions.
 
+I enjoy developing mobile applications for Android and iOS, creating modern web applications, and designing scalable backend systems. My experience includes Java, Spring Boot, JavaScript, React, Next.js, Node.js, Python, and PHP for software development, along with C and C++ for system programming, embedded development, and hardware-related projects.
 
-I am Lahiru Prasanna. I am a self-taught developer.I love creating Android applications that are user-friendly and engaging. I also enjoy building web applications with Spring Boot. In addition to my software development skills, I am also an avid DIY electronics enthusiast. I enjoy building electronic projects from scratch and love to experiment with new ideas. With my diverse skill set and passion for technology, I am always eager to take on new challenges and projects.
+I love creating clean, efficient, and user-friendly applications while continuously exploring new technologies. I have a strong interest in mobile development, full-stack web development, software architecture, and solving real-world problems through technology.
+
+Beyond software, I am an avid DIY electronics enthusiast who enjoys designing and building projects with microcontrollers, sensors, and embedded systems. I love experimenting with hardware, IoT, automation, and bringing ideas from concept to reality.
+
+With a passion for learning and innovation, I am always exploring new tools, technologies, and challenges to improve my skills and create meaningful projects.
 
 ![GitHub Snake](https://raw.githubusercontent.com/lahiru04/lahiru04/main/github-snake-dark.svg)
 
